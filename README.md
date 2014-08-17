@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is a test repo (Data Scientist's Tool Box)
+This is a test repository (Data Scientist's Tool Box)
