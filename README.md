@@ -3,6 +3,6 @@ test-repo
 
 This is a test repository (Data Scientist's Tool Box)
 
-*list
-*test
-*here
+* list
+* test
+* here
